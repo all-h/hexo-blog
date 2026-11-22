@@ -6,4 +6,8 @@ tags:
 
 # text
 
-## first
+## ~~first~~
+***
+<u>这段文字包含**粗体**、*斜体*和***粗斜体***的组合效果。<\u> [^AAA]
+
+[^AAA]:i am your father
